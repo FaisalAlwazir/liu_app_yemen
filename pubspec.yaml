@@ -30,7 +30,8 @@ dependencies:
   cupertino_icons: ^0.1.3
   # To securely store the credentials locally
   flutter_secure_storage: ^3.3.3
-  html: ^0.14.0+3
+  http: ^0.12.2
+
 
 dev_dependencies:
   flutter_test:
