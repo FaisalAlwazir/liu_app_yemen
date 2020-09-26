@@ -34,7 +34,8 @@ android {
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
         applicationId "com.example.liuappyemen"
-        minSdkVersion 16
+        // changed from 16 to 18 for the flutter_secure_storage package
+        minSdkVersion 18
         targetSdkVersion 28
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
