@@ -1,8 +1,8 @@
-# liuappyemen
+# LIU App Yemen
 
 An open source app for LIU Yemen students to access and interact with the university's website.
 
-## Getting Started
+## Getting Started with Flutter
 
 This project is a starting point for a Flutter application.
 
